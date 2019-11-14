@@ -1,0 +1,3 @@
+/home/zn/opencv4.1.1/opencv/sample/b/CMakeFiles/rebuild_cache.dir
+/home/zn/opencv4.1.1/opencv/sample/b/CMakeFiles/edit_cache.dir
+/home/zn/opencv4.1.1/opencv/sample/b/CMakeFiles/sample.dir
