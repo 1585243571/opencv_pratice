@@ -14,4 +14,4 @@ jobs:
     - name: make
       run: echo 123
     - name: makew 
-      run: cd ../../ & mkdir bulid &cd bulid&cmake ..
+      run: cd ../../ & mkdir bulid & cd bulid & cmake ..
